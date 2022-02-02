@@ -19,3 +19,7 @@ td.A{
 table.H{
     border: yellow 1px solid;
 }
+
+td{
+    border: red 1px solid;
+}

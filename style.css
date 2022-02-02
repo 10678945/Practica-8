@@ -1,0 +1,18 @@
+table.mitabla{
+    border: red 1px solid;
+}
+
+td.B{
+    border: blue 4px solid;
+}
+
+table.tabla{
+    border: green 1px solid;
+    width: 650px;
+    text-align:center
+}
+
+td.A{
+    border: green 1px solid;
+}
+
